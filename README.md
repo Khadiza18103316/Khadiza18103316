@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Khadiza Akhi
+- 👀 I’m interested in PHP/Laravel
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me khadizakhi756@gmail.com 
