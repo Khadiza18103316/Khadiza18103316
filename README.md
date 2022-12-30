@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Khadiza Akhi
 - 👀 I’m interested in PHP/Laravel
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Digital marketing & SEO
 - 📫 How to reach me khadizakhi756@gmail.com 
